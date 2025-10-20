@@ -1,0 +1,1 @@
+print("A citação é:\n \"Eu só sei que foi assim!\"\n agora você acredita?")
